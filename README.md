@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitish B</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishryder&label=Profile%20views&color=0e75b6&style=flat" alt="nitishryder" /> </p>
-
 - 🌱 I’m currently learning **Front-end Web Development**
 
 - 🤝 I’m looking for help with **in getting Summer Internships**

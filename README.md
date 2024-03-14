@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nitish B</h1>
 <h3 align="center">A passionate Software Engineering Student</h3>
 
+<br>
+
 - 🌱 I’m currently learning **Front-end Web Development**
 
 - 🤝 I’m looking for help with **in getting Summer Internships**
 
 - 📫 How to reach me **nitishb057@gmail.com**
-
+<br>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"</p>
 <a href="https://linkedin.com/in/nitish-b-97a3ba221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitish b" height="30" width="40" /></a>
 <a href="https://instagram.com/nitish_ryder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitish_ryder" height="30" width="40" /></a>
 </p>

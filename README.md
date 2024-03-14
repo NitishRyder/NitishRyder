@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/nitish-b-97a3ba221"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="linkedin logo"  /></a>
-  <a href="href="mailto:nitishb057@gmail.com""><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="gmail logo"  /></a>
+  <a href="mailto:nitishb057@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="gmail logo"  /></a>
   <a href="https://instagram.com/nitish_ryder"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="instagram logo"  /></a>
 </div>
 

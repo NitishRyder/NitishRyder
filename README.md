@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitish B</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineering Student</h3>
 
 - 🌱 I’m currently learning **Front-end Web Development**
 

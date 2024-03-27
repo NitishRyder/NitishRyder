@@ -2,10 +2,11 @@
 <h3 align="center">A passionate Software Engineering Student</h3>
 
 <br>
+- Have some experience in UI/UX Design.
 
 - 🌱 I’m currently learning **Front-end Web Development**
 
-- 🤝 I’m looking for help with **in getting Summer Internships**
+- 🤝 I’m looking for help **in getting Summer Internships**
 
 - 📫 How to reach me **nitishb057@gmail.com**
 <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coder" width="400" />

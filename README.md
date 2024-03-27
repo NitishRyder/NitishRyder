@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Software Engineering Student</h3>
 
 <br>
-- Have some experience in UI/UX Design.
+
+- Have some experience in  **UI/UX**
 
 - 🌱 I’m currently learning **Front-end Web Development**
 

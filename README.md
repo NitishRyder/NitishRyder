@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineering Student</h3>
 
 <br>
-- Cloud Platforms: **AWS, Microsoft Azure**
+- Cloud Platforms: ### AWS, Microsoft Azure
 
 - Have some experience in  **UI/UX**
 

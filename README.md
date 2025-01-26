@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a passionate software developer currently work
   <a href="https://linkedin.com/in/nitish-b-97a3ba221"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="linkedin logo" style="margin-right: 10" /></a>
   <a href="mailto:nitishb057@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="gmail logo"  /></a>
   <a href="https://instagram.com/nitish_ryder"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="instagram logo"  /></a>
-  <a href="https://twitter.com/nitish_ryder"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="twitter logo"  /></a>
-  <a href="https://dribbble.com/nitish_ryder"><img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="dribbble logo"  /></a>
-  <a href="https://www.behance.net/nitish_ryder"><img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769FF&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="behance logo"  /></a>
+  <a href="https://x.com/nitish_ryder"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="twitter logo"  /></a>
+  <a href="https://dribbble.com/NitishRyder"><img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="dribbble logo"  /></a>
+  <a href="https://www.behance.net/NitishRyder"><img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769FF&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="behance logo"  /></a>
 </div>
 
 <br>

@@ -9,11 +9,11 @@ Welcome to my GitHub profile! I'm a passionate software developer currently work
 
 <br>
 
-- Data Structures & Algorithms
+- Data Structures & Algorithms (Java)
   
 - Fullstack Web Development (MERN)
 
-- DevOps
+- DevOps (Docker, CI/CD Pipelines)
  
 
 <br>

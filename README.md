@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer currently work
 
 
 <div>
-  <a href="https://linkedin.com/in/nitish-b-97a3ba221"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="linkedin logo" style="margin-right: 10" /></a>
+  <a href="https://linkedin.com/in/nitishb-dev"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="linkedin logo" style="margin-right: 10" /></a>
   <a href="mailto:nitishb057@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="gmail logo"  /></a>
   <a href="https://instagram.com/nitish_ryder"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="instagram logo"  /></a>
   <a href="https://x.com/nitish_ryder"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" width="100" alt="twitter logo"  /></a>
@@ -138,8 +138,8 @@ Welcome to my GitHub profile! I'm a passionate software developer currently work
 
 ## 🔥My Stats :<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NitishRyder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NitishRyder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="400" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitishb-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishb-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="400" height="150" alt="languages graph"  />
 </div>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishb-dev&" alt="nitishb-dev" /></p>
